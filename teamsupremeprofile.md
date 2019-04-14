@@ -8,7 +8,7 @@
 
 **John Efthimiadis**
 
-
+My name is John Efthimiadis and  I am of a  Greek background,  born here in Australia to parents of Greek heritage.  I am bilingual and speak both Greek and English.  I have completed a Bachelor of Engineering  degree in the field of Materials Engineering at Monash University in 2005.  I have several hobbies including playing the guitar (acoustic and classical) and reading books and newspapers.  I have an interest in scientific as well as Engineering based issues.  I also enjoy gardening mowing the lawns and trimming the hedges at home.  
 
 **Amber Rimell**
 
@@ -38,6 +38,10 @@ The test outcomes for each person in the team (all 3 tests), and your understand
 
 **John Efthimiadis' test outcomes:**
 
+“The results of an online Myers-Briggs Test reveal  that I am a CONSUL ESFJ-A personality type with Mind: a trait determining how we interact with our environment (51 % Extraverted ; 49 % Introverted); Energy: a trait showing where we direct our mental energy (34 % Intuitive ; 66 % Observant); Nature: This trait determines how we make decisions and cope with emotions (29 %Thinking ; 71 % Feeling) ;  Tactics: This trait reflects our approach to work, planning and decision making (75 % Judging ; 25 % Prospecting); Identity: This trait underpins all others, showing how confident we are in our abilities and decisions. (61 % Assertive 39 % Turbulent ). ( From www.16personaities.com/esfj-personality)”
+
+“The results of an online learning style test indicate that I am primarily a(n): visual learner. “ The visual learner remembers 75 % of what they read or see.  Demonstrations from the blackboard,diagrams, graphs and charts are all valuable tools for the visual learner.  Generally, analytic visual learners will process the printed word before the iconic (pictorial) information.  Generally, global visual learners will process iconic (pictorial) information before reading the printed text. ( From www.whatismylearningstyle.com/visual-learner.html)”
+
 **Amber Rimell's test outcomes:**
 
 According to the **16 Personalities** test, I am a Defender (ISFJ-A). I read through the results and found them to be quite accurate.
@@ -64,6 +68,49 @@ This shows that I like to get things done in a concise manner and have a clear p
 
 **John Efthimiadis' Ideal Job:**
 
+Ideal Job
+
+Advertised 13/3/2019 in Seek Emplyment web site 
+Help Desk | Production Support
+Strong SolutionsMore jobs from this company
+About Us:
+Strong Solutions harnesses the power of the cloud to deliver our customers a dependable technology platform on which to grow their business.
+We combine our business and technology experience to reduce risk, cost and downtime for our customers whilst providing the flexibility of the IT as a Service model.
+About the Role:
+We are looking for someone to join our team as a Help Desk | ProductionSupport to take care of our valued clients. You will be working in our steel manufacturing environment located in Sunshine North VIC and the greater Melbourne area.
+You will have exposure to a variety of technology and work with customers across a diverse range of industries.
+Ideally, you will possess a strong customer focus and work well within a team, as well as autonomously.
+Availability for on-call and after-hours work as needed.
+Responsibilities include but are not limited to:
+•	Deskside and Remote Desktop Services support including Office, telephony, printing, and mobile devices.
+•	Support for steel production software and systems.
+•	Support of line of business applications including Dynamics AX ERP and aSa Rebar manufacturing software.
+Skills and Experience:
+•	MUST reside in and hold full Australian work rights.
+•	Minimum 3 years of Deskside Support experience.
+•	PC hardware build and troubleshooting experience
+•	Troubleshooting network, telephony and printing issues
+•	Knowledge of Office 365 support.
+•	The following technical skills are desirable:
+•	Microsoft Dynamics AX ERP or Dynamics 365
+•	Microsoft SQL Server (DB, SSRS, SSIS)
+•	aSa Rebar manufacturing software experience
+•	Data analytics (Excel, SSRS, PowerBI)
+Why Join Us:
+•	Professional development- Scope to grow your skills into server, cloud, networking and security disciplines.
+•	Work-life balance- Flexible working arrangements are supported for the right applicant within reason.
+•	Friendly team- Work with a dynamic team with day to day online collaboration.
+•	Supportive management- Work under an open and flat management structure.
+How to Apply:
+Please express your interest via SEEK by clicking on the “Apply for this job” button above with your CV and cover letter. 
+The application form will include these questions:
+•	Which of the following statements best describes your right to work in Australia?
+•	How much notice are you required to give your current employer?
+•	Have you completed a qualification in ICT?
+•	Are you available to provide on call support when required?
+•	How many years' experience do you have as a service desk analyst?
+Report this job advert
+Be careful- Don’t provide your bank or credit card details when applying for jobs. If you see something suspicious report this job ad.
 
 
 **Amber Rimell's Ideal Job:**
@@ -94,5 +141,5 @@ I imagine that all of our dream jobs are going to require the ability to collabo
 
 
 
-[Spencer's Profile]() [John's Profile]()  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile](https://waynevanson.github.io)  [Grace's Profile]()
+[Spencer's Profile]() [John's Profile](https://github.com/efthimiadis/my-profile)  [Amber's Profile](https://amberrimell.github.io/introtoitassessment/myprofile)  [Vu's Profile]()  [Wayne's Profile](https://waynevanson.github.io)  [Grace's Profile]()
 
